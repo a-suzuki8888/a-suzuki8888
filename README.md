@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @a-suzuki8888
 - 👀 I’m interested in ...React,TS,OS
-- 🌱 I’m currently learning ...TCP/IP
+- 🌱 I’m currently learning ...AWS、Linux、OS
 - 💞️ I’m looking to collaborate on ...any project!!😊✨
 - 📫 How to reach me ...https://www.linkedin.com/in/asuzukip8888/
 - 😄 Pronouns: ...She/her/hers
-- ⚡ Fun fact: ...I had never used a macOS PC🍎 in the 30+ years of my life until December 2024.😱 I'm currently studying hard and struggling with the differences from Windows.💪😝
+- ⚡ Fun fact: ...The first time I switched branches and saw the local tree’s file structure and source code change instantly, I was completely blown away! It felt like magic🎩🪄✨ That’s why I want to learn as many spells—also known as programming—as I can, to surprise, entertain, and help people. Every day, I keep studying to make that happen💖
 
 <!---
 a-suzuki8888/a-suzuki8888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
