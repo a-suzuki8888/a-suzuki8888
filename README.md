@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...React,TS,OS
 - 🌱 I’m currently learning ...AWS、Linux、OS
 - 💞️ I’m looking to collaborate on ...any project!!😊✨
-- 📫 How to reach me ...https://www.linkedin.com/in/asuzukip8888/
+- 📫 How to reach me ...[https://heart-stack.com/](https://heart-stack.com/)
 - 😄 Pronouns: ...She/her/hers
 - ⚡ Fun fact: ...The first time I switched branches and saw the local tree’s file structure and source code change instantly, I was completely blown away🤩‼️ It felt like magic🎩🪄✨ That’s why I want to learn as many spells—also known as programming—as I can, to surprise, entertain, and help people. Every day, I keep studying to make that happen💖
 
